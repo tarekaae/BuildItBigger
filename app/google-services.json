@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175197118191",
+    "firebase_url": "https://builditbigger-64a13.firebaseio.com",
+    "project_id": "builditbigger-64a13",
+    "storage_bucket": "builditbigger-64a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175197118191:android:21821f93ad23ea77",
+        "android_client_info": {
+          "package_name": "com.tarek.nanodegree.bigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175197118191-rrg3bca7i7rrsva836vcuqss2gu4us04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMu_6LVzPGmZv9xfSmtnER-PZ2i-4UaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

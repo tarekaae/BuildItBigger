@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build It Bigger</string>
+    <string name="info">Welcome to Jokes App</string>
+    <string name="tell">Tell A Joke</string>
+    <string name="ad_mob_app_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_mob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
